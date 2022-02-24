@@ -10,4 +10,4 @@ Once clicked, it will initiate a call to the function atomicMatch_() in the cont
 This is the source code of the underlying smart contract, which implements the actual Dutch auction business logic for Opensea.
 
 3. dutch_auction_bmg.pdf
-This is the business model graph (BMG) that characterizes the Dutch auction business logic from Opensea’s code.
+This is a business model graph (partial) to showcase how our technique can characterize the Dutch auction business logic for Opensea.
