@@ -1,0 +1,195 @@
+Name,Link,Category,Successful run?,Comments
+AdAuction-Dapp,https://github.com/AnuragMunda/AdAuction-Dapp,auction,no,smart contract cannot be triggered
+APS1050,https://github.com/AkshataPuranik123/APS1050,Auction,no,"can not npm/yarn install --  
+npm install & yarn failed --  "
+Auctionity,"https://app.auctionity.com/
+https://github.com/auctionity/auctionity ",Auction,no,dApp is online but inactive and gets error when trying to sign a message to log in. 
+chitFund,https://github.com/samarth30/chitFund,auction,no,"Online Demo: React App (chitfund.netlify.app)
+It is online, while smart contract cannot be triggered --  "
+DAppAuction,https://github.com/Ruggiero-Santo/DAppAuction,Auction,no,"Setup successfully, however, the front end can not interact with smart contract --  "
+DAppAuction,https://github.com/Ruggiero-Santo/DAppAuction,auction,no,"smart contract migrate failed -- 
+truffle failed --  "
+DiaboFong,https://github.com/DiaboFong/auctionDapp,Auction,no,missing installation instruction. Npm install failed
+Fractional.art,https://github.com/fractional-company/contracts,Auction,no,incomplete frontend
+Gnosis Auction,"https://gnosis-auction.eth.link
+github.com/gnosis/ido-ux
+github.com/gnosis/ido-contracts",Auction,no,"Active dApp
+(Can not work, it will check balance before bidding.  )"
+Hsiang-xxs,https://github.com/Hsiang-xxs/Auction,Auction,no,no instructions & can't build
+solidity-auction,https://github.com/brynbellomy/solidity-auction,auction,no,"can not npm/yarn install --  
+npm install & yarn failed --  "
+StoriesNFT,https://github.com/ysongh/StoriesNFT,auction,no,"online demo, trading pdf stories
+(I found the online demo has broken down. Lacking of API key, I also can not setup the repo.  )"
+verichain,https://github.com/austin-hwang/verichain,auction,no,"npm install & yarn failed
+I agree, can not npm/yarn install --checked  "
+truffle-vote,https://github.com/jsphLim/truffle-Voting,voting,no,smart contract can be deployed frontend can't work (lack of index.html, so the frontend can't work)"
+,https://github.com/ssteiger/Ethereum-NFT-Store-with-Dutch-Auctions,auction,no,can't compile by using truffle 
+OpenSea Ship's Log example dapp,"https://github.com/ProjectOpenSea/ships-log
+https://ships-log.herokuapp.com/",Auction/Trading,no,"Live example app hosted on Heroku seems broken, shows errors in browser console when trying to fetch data from OpenSea api"
+Rarible protocol Ethereum example,https://github.com/rarible/ethereum-example,Auction/Trading,no,"Ran into some compile errors while trying to run it, but the repo was updated last week, so I opened an Issue on Github in hopes I hear back"
+,https://github.com/wschae/ethereumbook-auction-dapp,Auction/Trading,no,frontend can't work
+,https://github.com/Shivamnema/Auction-Market---Blockchain-Use-Case,Auction/Trading,no,frontend can't work
+BigBoardzDapp,https://github.com/jcraney/BigBoardzDapp,betting,no,smart contract compile failed --  
+basic-crowdsale,https://github.com/jacksonjp/basic-crowdsale,Crowdsale,no,"npm install or yarn failed & this repo did not use truffle to compile and deploy smart contracts, I have no idea about how to compile and deploy --  "
+crowdfund-dapp,https://github.com/tyndallm/crowdfund-dapp,crowdsale,no,"successfully installed, but compile failed: Error in ./src/api/web3Api.js Module not found:
+can not npm/yarn install --  "
+crowdfunding,https://github.com/openberry-ac/crowdfunding,crowdsale,no,"npm install & yarn failed
+I agree, can not npm/yarn install --checked  "
+crowd-funding-platform,https://github.com/harshraj21/Decentralised-crowd-funding-platform,crowdsale,no,"successfully installed, but Nuxt build error
+I agree, the contract can not be compiled"
+Token Wizard,"https://github.com/poanetwork/token-wizard
+https://github.com/poanetwork/ico/tree/cd5301aa90f38f60b0d038d895e5b9435d622272 ",Crowdsale,no,"dApp is inactive. Contracts are in another repo linked as submodule, which points to a specific commit at the 2nd link
+(No, 'npm install' and 'yarn' failed when followed instructions of how to run)"
+PartyBid,"https://github.com/PartyDAO/partybid
+https://www.partybid.app/",Crowdsale/ Auction,no,"Active dApp, allows groups to pool their funds (crowdsale) in order to bid on an NFT auction
+(However, It can not trigger any smart contract, for it will check balance before bid.  )"
+Mirror.xyz,"https://github.com/mirror-xyz
+https://mirror.xyz/dashboard",Crowdsale/ Auction/Voting,no,"Active dApp, which apparently tries to do everything (blogs, crowdsales, auction, voting)
+(Although it is online and active, it is hard for us to find the smart contract.  )"
+edgeless dice,"https://edgeless.io/games/dice
+https://github.com/edgeless-casino/",Gamble-dice,no,"No front-end in Github repo, requires EDG token and participation is blocked in the US"
+EtherFlip,https://github.com/EtherFlip/etherflip-electron,Gamble-lot,no,No visible GUI component
+fomo3d,https://github.com/blockservice/fomo3d,Gamble-lot,no,"
+(Fail to setup. checked  )"
+coin-gambling-dapp,https://github.com/carlosfebres/coin-gambling-dapp,Gamble-lot/Lottery,no,"Build failed with errors. code: 'ERR_PACKAGE_PATH_NOT_EXPORTED
+Dapp can not execute, I met another error when I tried to run the dapp: TypeScript error in... --  "
+Lokian.eth,https://github.com/tytzM17/Lokian.eth,Gamble-lot/Lottery,no,"Failed to compile
+./src/utils/txFail.js
+  Line 6:11:  'toast' is not defined  no-undef
+I agree, fail to compile the project. --  "
+lottery-dapp,https://github.com/gforien/lottery-dapp,Gamble-lot/Lottery,no,Build failed with errors --  
+vue-ethereum-lottery-dapp,https://github.com/paragchirde/vue-ethereum-lottery-dapp.git,Gamble-lot/Lottery,no,"cannot be deployed
+(Can be deployed, however, smart contract cannot be triggered, being fixed  )"
+Betting-Dapp,https://github.com/kokiri11/Betting-Dapp,gambling,no,"if getting error like 'vue-cli-service' is not recognized as an internal or external command, you should delete the ""node_modules"" folder and after that run npm i from the cmd. Then try running npm run serve again
+Hi  , can you tell me how to migrate the smart contract? I failed in this step with ganache --    failed --  "
+coinflip,https://github.com/urketadic/coinflip,gambling,no,truffle compile failed because can't find '0.5.12'
+ethereum-gambling,https://github.com/ramyzhang/ethereum-gambling,gambling,no,solc compile failed & front-end can't run
+EthJackpot,https://ethjackpot.github.io/,Gambling,no,It can not be accessed
+Heads-Or-Tails,https://github.com/rene78/Heads-Or-Tails,gambling,no,"smart contract can be compiled but failed for deploying
+it has an online demo, but can not trigger smart contract--  
+I can compile and deploy this Dapp this time, but frontend can't work because there is no script named 'run' or 'dev' --  "
+infinitycasino,https://github.com/infinitycasino/infinitycasino,gambling,no,"front-end can't run
+need to modify 'truffle-config.js' with solc version ""^0.4.18"" and networks configure
+I agree, the front-end can not execute. -- "
+,https://github.com/rohitsethii/LotteryDapp,lot,no,npm install and yarn failed
+,https://github.com/SwJay/Lottery,lot,no,frontend can't trigger smart contract
+,https://github.com/Parsh/Lottery-DApp,lot,no,npm install and yarn failed
+,https://github.com/itxtoledo/lottery-dapp,lot,no,frontend looks weird.
+,https://github.com/svstoll/ethereum-lottery-app,lot,no,frontend failed to compile
+,https://github.com/nisib/ethereum-lottery-dapp,lot,no,smart contract can't be deployed 
+,https://github.com/Tharinducs/Lottery,lot,no,smart contract can't be deployed 
+,https://github.com/pauloedspinho20/solidity-lottery,lot,no,frontend can't work
+,https://github.com/alexroan/EtherLottery,lot,no,can't trigger smart contract
+Etherball,https://github.com/njaladan/Etherball,lottery,no,"successfully built with yarn, but migration failed, Error: Callback was already called.
+Set up and execute successfully, smart contract can not be triggered --  "
+ethereum-lottery-dapp,https://github.com/wangshijun/ethereum-lottery-dapp,lottery,no,"can not npm/yarn install --  
+npm install & yarn failed --  "
+ether-loto,https://github.com/ethereum-game-company/ether-loto,lottery,no,"npm install & yarn failed -- 
+npm install & yarn failed -- "
+node-lottery-dapp,https://github.com/JacobHsu/node-lottery-dapp,lottery,no,"install successfully, while fail to start the dapp"
+Veva-One,https://github.com/vevaone/ratings,rating,no,"npm install & yarn failed -- 
+npm install & yarn failed -- "
+ethereum-staking-smart-contract,https://github.com/AntoniosHadji/ethereum-staking-smart-contract,staking,no,"can not npm/yarn install --  
+npm install & yarn failed --  "
+XGold,https://github.com/florianmaxim/XGold,trade,no,there is no 'solc' files
+,https://github.com/Moliholy/ethereum-exchange,trade,no,npm install failed
+,https://github.com/daniel-xyz/trading-card-factory,trade,no,npm install failed
+,https://github.com/mhar-andal/stock-forum-ethereum,trade,no,npm install failed
+,https://github.com/nwthomas/ethereum-stars,trade,no,npm install failed
+,https://github.com/laguilar359/SleeperToken_SecurityTokenOffering/tree/main/SLPRcoin_dApp,trade,no,can't start for registering
+adhereum,https://github.com/Unichain-turkey/adhereum,trading,no,"Yarn install failed -- 
+npm & yarn install failed --  "
+celoshop,https://github.com/emmanuelJet/celoshop-dacade,trading,no,"Can be built, but the smart contract can not be triggered --  
+Online Demo: https://emmanueljet.github.io/celoshop-dacade/ --  "
+Crypto Boy NFT Marketplace,"https://github.com/devpavan04/cryptoboys-nft-marketplace
+https://devpavan04.github.io/cryptoboys-nft-marketplace/",Trading,no,"Prototype dApp, last updated 1 month ago. 2nd link it to a live instance on the Kovan testnet.
+(Can not trigger smart contracts.  )"
+dapp-traceability,https://github.com/tari404/dapp-traceability.git,Trading,no,"Build failed with errors.
+(Fail to build up, for the smart contract can not be compiled.  )"
+DappWork,https://github.com/SirPhemmiey/dapp-work,trading,no,"truffle test failed
+I also can not set up this dapp --  "
+Decentralized Escrow dApp,https://github.com/beshology/blockchain-developer-bootcamp-final-project,trading,no,"Online Demo: Decentralized Escrow dApp
+It is online, while smart contract cannot be triggered --  "
+Erc.Money Dapp,https://github.com/erc-money/erc-money.github.io,trading,no,Fail to execute 'yarn/npm run serve' following instruction on github
+eth-dapps-nextjs-boiletplate,https://github.com/limcheekin/eth-dapps-nextjs-boiletplate,Trading,no,"Smart contract can be compiled and deployed, while, the front end can not be set up. --  "
+flashloan-for-students,https://github.com/masaun/flashloan-for-students,Trading,no,smart contracts compile failed --  
+foodprint,https://github.com/FoodPrintLabs/foodprint,trading,no,"Fail to compile. Error: no such file or directory. --  
+[nodemon] app crashed - waiting for file changes before starting... --  "
+Galerie,https://github.com/BravoNatalie/NFT-Marketplace,Trading,no,"Prototype dApp, last updated 2-4 months ago.
+(No, smart contract compilation failed -- checked  )"
+Hitaya,https://github.com/raj713335/Hitaya,Trading,no,(404 not found -- )
+market-place,https://github.com/walkingtree/ethmarket,trading,no,"can not npm/yarn install --  
+npm install & yarn failed --  "
+MarketPlace-BlockChain,https://github.com/Sudhanmanoharan/MarketPlace-BlockChain,Trading,no,"Smart contract can be compiled and deployed, while, the dapp can not be set up. --  "
+MarketPlace-DApp,https://github.com/zalak13/MarketPlace-DApp,trading,no,"successfully install and execute, while smart contract cannot be triggered -- 
+successfully install and execute,  Online Demo: https://zalak13.github.io/MarketPlace-DApp/  -- "
+mTC NFT Marketplace,https://github.com/miquelTC/nft-marketplace,Trading,no,"Prototype dApp, last updated 4 months ago.
+(No, smart contract compilation failed -- checked  )"
+nft-market,"https://nft.s2paganini.com/
+https://github.com/silviopaganini/nft-market
+https://github.com/silviopaganini/nft-contracts",Trading,no,"Prototype dApp, last updated 5 months ago. First link is to a live instance on the Rinkeby testnet. Contracts are in a separate repo.
+(Can not trigger the smart contract.  )"
+scaffold-eth-typescript,https://github.com/scaffold-eth/scaffold-eth-typescript,Trading,no,"Successfully deployed, while can not interact with smart contract -- "
+SolidityPricingDApp,https://github.com/abidaks/SolidityPricingDApp,trading,no,"npm install & yarn failed -- 
+npm install & yarn failed -- "
+tfg-rsk-swap,https://github.com/ikcoin/tfg-rsk-swap,Trading,no,"Build failed with errors.
+(Fail to install requirement via npm or yarn.  )"
+Token Wizard,"https://github.com/poanetwork/token-wizard
+https://github.com/poanetwork/ico/tree/cd5301aa90f38f60b0d038d895e5b9435d622272 ",Trading,no, 'npm install' and 'yarn' failed when followed instructions
+,https://github.com/samarth30/Decentralized-Trading-Platform,Trading,no ,npm install' failed
+CryptoPuppies,"https://harishkumarchandra.github.io/Crypto_Puppy/
+https://github.com/vmieres/CryptoPuppies_Marketplace",Trading/ Auction,no,"Prototype dApp, last updated 9 months ago.
+(The web site can not work)
+(I agree, the website has broken down.  )
+(No, smart contract compilation failed)"
+choose-wisely,https://github.com/echrs/choose-wisely,voting,no,"successfully built with npm, but truffle failed
+I agree, the contract can not be compiled"
+DappBallot,https://github.com/yoyoping/DappBallot,voting,no,"Build failed with errors.
+(Fail to install requirement via npm or yarn.  )"
+decentralized-voting,https://github.com/Trivo25/decentralized-voting,voting,no,contract compile failed -- 
+Election-Dapp,https://github.com/AnuragMunda/Election-Dapp,voting,no,"Online Demo: Election Dapp (anuragmunda.repl.co)
+only register button can be used --  "
+ethereum-voting,https://github.com/skylerrichter/ethereum-voting,Voting,no,npm install' failed
+ethereum-voting,https://github.com/vrnvu/ethereum-voting,voting,no ,
+eth-vote,https://github.com/sebastiantf/eth-vote,Voting,no,"compilation failed with
+Truffle v5.0.2
+Node v15.14.0"
+FoodVoter,https://github.com/Laptop-Salad/FoodVoter,voting,no,"lack of migration file, can not migrate smart contract -- "
+my_simple_voting_dapp,https://github.com/KrisJiaqiXie/my_simple_voting_dapp,voting,no,cant compile
+proving-ground,https://github.com/immersiveos/proving-ground,voting,no,"Build failed with errors.
+Checked  "
+voting_dapp,https://github.com/danazkari/voting-dapp,voting,no,can't build because some packages are too old to depreacted
+voting_dapp,https://github.com/Yohenba18/Voting-Dapp,voting,no,no instructions & can't build
+voting_dapp,https://github.com/Bhawana15/voting_dapp,voting,no,"No contract found in this repo --  
+Successfully installed but no contract --  "
+voting-ballot,https://github.com/blockchain-council/voting-ballot,voting,no,npm install failed
+VotingDApp,https://github.com/Meharab/Decentralized-Voting-DApp-usaing-Solidity-and-Web3.js,voting,no,"lack of migration file, can not migrate smart contract -- "
+,https://github.com/frostiq/univereum,voting,no,can't be deployed
+,https://github.com/mohamedsgap/voting-dapp,voting,no,Cannot find module '@truffle/hdwallet-provider'
+,https://github.com/rajatdiptabiswas/ethereum-dapp-vote,voting,no,smart contract can't be built
+,https://github.com/siddharthshah3030/decentralized-Dapp-Server,voting,no,
+,https://github.com/barrasso/voting-dapp,voting,no,"web3.toWei is not a function, which has been moved"
+,https://github.com/giancarlopetrini/voting-dapp,voting,no,truffle confige error: solc version error 
+,https://github.com/smbsp/importantdapps,voting & wallet,no,truffle compile failed because can't find '0.7.0' & front-end can't work
+DonateDapp,https://github.com/spotlightgroup/DonateDapp,Wallet,no,"unable to resolve dependency tree
+I agree, npm install or yarn install failed. --  "
+EmbarkAngularStarter,https://github.com/jeroenouw/EmbarkAngularStarter,Wallet,no,Build failed with errors. --  
+Gnosis Safe,"https://gnosis-safe.io/app
+https://github.com/gnosis/safe-react 
+https://github.com/gnosis/safe-contracts ",Wallet,no,"Active dApp, probably the most trusted multi-sig wallet in the industry. I used it to deploy a test wallet on a testnet
+(We can trigger only one smart contract, for if we don't have ETH.  )"
+tfg-rsk-swap,https://github.com/ikcoin/tfg-rsk-swap,wallet,no,"npm install & yarn failed
+I agree, can not npm/yarn install --checked  "
+Aave,"https://app.aave.com/
+https://github.com/aave/aave-protocol","Wallet 
+(Staking)",no,Active dApp (might be a bit too complex though?) contract of interest would be a lending pool
+Compound,"https://app.compound.finance/
+https://github.com/compound-finance/compound-protocol","Wallet 
+(Staking)",no,"Active dApp (might be a bit too complex though?) contract of interest would be a lending pool
+(Can not load the address of activate button, there is no text around button, too complex.  )"
+DeFi Yield Protocol,"https://app.dyp.finance/
+https://github.com/dypfinance/dyp-earn-vault
+https://github.com/dypfinance/dyp-contracts","Wallet 
+(Staking)",no,"Active dApp, users deposit their ETH to be locked for a certain time, during which time it earns a set APY % according to duration"
+scaffold-eth staking,https://github.com/StErMi/scaffold-eth-challenge-1-decentralized-staking/tree/main/packages/hardhat/contracts,"Wallet 
+(Staking)",no,"Submission for a coding challenge by scaffold-eth, described by code author here: https://dev.to/ stermi/scaffold-eth-challenge-1-staking-dapp-4ofb"
