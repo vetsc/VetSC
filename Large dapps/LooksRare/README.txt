@@ -8,7 +8,7 @@ Once clicked, it will initiate a call to the function matchAskWithTakerBid() in 
 
 
 2. spec
-LooksRareimplements a trading business logic, whose spec is presented in Table 7 in the paper.
+LooksRare implements a trading business logic, whose spec is presented in Table 7 in the paper.
 
 
 3. bmg.pdf
